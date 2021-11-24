@@ -10,8 +10,11 @@
 **** Existem as seguintes opções:
 
 [Cadastro] Cadastro
+
 [Editar] Edição
+
 [Excluir] Exclusão
+
 
 ## Todos os campos são obrigatórios:
 Tipo : "String" 
