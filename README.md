@@ -17,10 +17,16 @@
 
 
 ## Todos os campos são obrigatórios:
+
 Tipo : "String" 
+
 Gênero: "String"
+
 Marca: "String" 
+
 Tamanho: "String"
+
 Cor: "String"
+
 
 
